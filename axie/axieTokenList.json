@@ -1,0 +1,30 @@
+{
+	"name": "Axie Infinity",
+	"logoURI": "https://roll-token.s3.amazonaws.com/AXS/e87ec3c5-8b41-4437-976d-15c4172a802a.png",
+	"keywords": ["AXIE", "defi", "nft"],
+	"timestamp": "2021-02-03T12:47:57.000+00:00",
+	"tokens": [
+		{
+			"name": "Axie Infinity Shard",
+			"address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+			"symbol": "AXS",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://roll-token.s3.amazonaws.com/AXS/e87ec3c5-8b41-4437-976d-15c4172a802a.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+			"name": "Sai Stablecoin v1.0",
+			"symbol": "SAI",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+		}
+	],
+	"version": {
+		"major": 0,
+		"minor": 1,
+		"patch": 0
+	}
+}
