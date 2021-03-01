@@ -1,0 +1,40 @@
+{
+	"name": "Axie Infinity",
+	"logoURI": "https://roll-token.s3.amazonaws.com/AXS/e87ec3c5-8b41-4437-976d-15c4172a802a.png",
+	"keywords": ["AXIE", "defi", "nft"],
+	"timestamp": "2021-02-03T12:47:57.000+00:00",
+	"tokens": [
+		{
+			"name": "Wrapped CryptoKitties",
+			"address": "0x09fe5f0236f0ea5d930197dce254d77b04128075",
+			"symbol": "WCK",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png"
+		},
+		{
+			"name": "W-Gen 0 CryptoKitties",
+			"address": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
+			"symbol": "WG0",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://roll-token.s3.amazonaws.com/external/61aa1bbe-8bcc-4946-8d8c-4c18132741c9.png"
+		},
+		{
+			"name": "W-Gen 0 Virgin CryptoKitties",
+			"address": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
+			"symbol": "WVG0",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://assets.coingecko.com/coins/images/12875/small/wvg0.png?1603211534"
+		}
+	],
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	}
+}

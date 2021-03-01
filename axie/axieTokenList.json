@@ -14,17 +14,34 @@
 			"logoURI": "https://roll-token.s3.amazonaws.com/AXS/e87ec3c5-8b41-4437-976d-15c4172a802a.png"
 		},
 		{
+			"name": "Small Love Potion",
+			"address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+			"symbol": "SLP",
+			"tags": ["nft"],
+			"decimals": 0,
 			"chainId": 1,
-			"address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-			"name": "Sai Stablecoin v1.0",
-			"symbol": "SAI",
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+			"name": "Wrapped Origin Axie",
+			"symbol": "WOA",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+			"logoURI": "https://etherscan.io/token/images/axieinfinity_32.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+			"name": "AXI_ORI_V",
+			"symbol": "Axie Origin Virgin",
+			"decimals": 18,
+			"logoURI": "https://roll-token.s3.amazonaws.com/AXS/e87ec3c5-8b41-4437-976d-15c4172a802a.png"
 		}
 	],
 	"version": {
-		"major": 0,
-		"minor": 1,
+		"major": 1,
+		"minor": 0,
 		"patch": 0
 	}
 }
