@@ -29,14 +29,6 @@
 			"symbol": "WOA",
 			"decimals": 18,
 			"logoURI": "https://etherscan.io/token/images/axieinfinity_32.png"
-		},
-		{
-			"chainId": 1,
-			"address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
-			"name": "AXI_ORI_V",
-			"symbol": "Axie Origin Virgin",
-			"decimals": 18,
-			"logoURI": "https://etherscan.io/token/images/axie_128.png"
 		}
 	],
 	"version": {

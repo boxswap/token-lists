@@ -1,6 +1,6 @@
 {
 	"name": "CryptoKitties",
-	"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png",
+	"logoURI": "https://etherscan.io/token/images/cryptokitties_128.png",
 	"keywords": ["CK", "CryptoKitties", "defi", "nft"],
 	"timestamp": "2021-02-04T12:47:57.000+00:00",
 	"tokens": [
@@ -20,7 +20,7 @@
 			"tags": ["nft"],
 			"decimals": 18,
 			"chainId": 1,
-			"logoURI": "https://etherscan.io/token/images/wrapped-wgo_32.png"
+			"logoURI": "https://etherscan.io/token/images/wrapped-wgo_128.png"
 		},
 		{
 			"name": "W-Gen 0 Virgin CryptoKitties",
