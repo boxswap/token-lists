@@ -1,6 +1,6 @@
 {
 	"name": "Axie Infinity",
-	"logoURI": "https://etherscan.io/token/images/axie_128.png",
+	"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/axie.png",
 	"keywords": ["AXIE", "defi", "nft"],
 	"timestamp": "2021-02-03T12:47:57.000+00:00",
 	"tokens": [
@@ -11,7 +11,7 @@
 			"tags": ["nft"],
 			"decimals": 18,
 			"chainId": 1,
-			"logoURI": "https://etherscan.io/token/images/axieinfinityshard_32.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/axs.png"
 		},
 		{
 			"name": "Small Love Potion",
@@ -20,7 +20,7 @@
 			"tags": ["nft"],
 			"decimals": 0,
 			"chainId": 1,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1/logo.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/slp.png"
 		},
 		{
 			"chainId": 1,
@@ -28,7 +28,7 @@
 			"name": "Wrapped Origin Axie",
 			"symbol": "WOA",
 			"decimals": 18,
-			"logoURI": "https://etherscan.io/token/images/axieinfinity_32.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/woa.png"
 		}
 	],
 	"version": {

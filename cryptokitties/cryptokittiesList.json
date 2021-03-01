@@ -1,6 +1,6 @@
 {
 	"name": "CryptoKitties",
-	"logoURI": "https://etherscan.io/token/images/cryptokitties_128.png",
+	"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/ck.png",
 	"keywords": ["CK", "CryptoKitties", "defi", "nft"],
 	"timestamp": "2021-02-04T12:47:57.000+00:00",
 	"tokens": [
@@ -11,7 +11,7 @@
 			"tags": ["nft"],
 			"decimals": 18,
 			"chainId": 1,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09fE5f0236F0Ea5D930197DCE254d77B04128075/logo.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/wck.png"
 		},
 		{
 			"name": "W-Gen 0 CryptoKitties",
@@ -20,7 +20,7 @@
 			"tags": ["nft"],
 			"decimals": 18,
 			"chainId": 1,
-			"logoURI": "https://etherscan.io/token/images/wrapped-wgo_128.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/wg0.png"
 		},
 		{
 			"name": "W-Gen 0 Virgin CryptoKitties",
@@ -29,7 +29,7 @@
 			"tags": ["nft"],
 			"decimals": 18,
 			"chainId": 1,
-			"logoURI": "https://etherscan.io/token/images/wrapped-wgo_32.png"
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/wvg0.png"
 		}
 	],
 	"version": {
