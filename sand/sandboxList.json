@@ -1,0 +1,31 @@
+{
+	"name": "The Sandbox",
+	"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/sand.png",
+	"keywords": ["AXIE", "defi", "nft"],
+	"timestamp": "2021-02-14T12:47:57.000+00:00",
+	"tokens": [
+		{
+			"name": "The Sandbox",
+			"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+			"symbol": "SAND",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/sand.png"
+		},
+		{
+			"name": "Wrapped Sand Land",
+			"address": "0xa91e3364cfe63b4d80a22a93967d931a796feda3",
+			"symbol": "WSL",
+			"tags": ["nft"],
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/wsl.png"
+		}
+	],
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	}
+}
