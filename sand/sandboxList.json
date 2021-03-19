@@ -15,7 +15,7 @@
 		},
 		{
 			"name": "Wrapped Sand Land",
-			"address": "0x168baEb2A46aA7d4B1526e737c6e9012080D66Db",
+			"address": "0xFA0b96bC46575e4ECa8C10041a1Ff27A394ec21f",
 			"symbol": "WSL",
 			"tags": ["nft"],
 			"decimals": 18,
@@ -25,7 +25,7 @@
 	],
 	"version": {
 		"major": 1,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	}
 }
