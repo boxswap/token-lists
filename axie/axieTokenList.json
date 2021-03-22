@@ -2,7 +2,7 @@
 	"name": "Axie Infinity",
 	"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/axie.png",
 	"keywords": ["AXIE", "defi", "nft"],
-	"timestamp": "2021-02-07T12:47:57.000+00:00",
+	"timestamp": "2021-02-17T12:47:57.000+00:00",
 	"tokens": [
 		{
 			"name": "Axie Infinity Shard",
@@ -15,7 +15,7 @@
 		},
 		{
 			"name": "Small Love Potion",
-			"address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+			"address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1",
 			"symbol": "SLP",
 			"tags": ["nft"],
 			"decimals": 0,
@@ -32,7 +32,7 @@
 		}
 	],
 	"version": {
-		"major": 2,
+		"major": 3,
 		"minor": 0,
 		"patch": 0
 	}

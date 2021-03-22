@@ -2,11 +2,11 @@
 	"name": "CryptoKitties",
 	"logoURI": "https://raw.githubusercontent.com/boxswap/token-lists/main/images/ck.png",
 	"keywords": ["CK", "CryptoKitties", "defi", "nft"],
-	"timestamp": "2021-02-05T12:47:57.000+00:00",
+	"timestamp": "2021-02-15T12:47:57.000+00:00",
 	"tokens": [
 		{
 			"name": "Wrapped CryptoKitties",
-			"address": "0x09fe5f0236f0ea5d930197dce254d77b04128075",
+			"address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
 			"symbol": "WCK",
 			"tags": ["nft"],
 			"decimals": 18,
@@ -24,7 +24,7 @@
 		},
 		{
 			"name": "W-Gen 0 Virgin CryptoKitties",
-			"address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+			"address": "0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611",
 			"symbol": "WVG0",
 			"tags": ["nft"],
 			"decimals": 18,
@@ -33,7 +33,7 @@
 		}
 	],
 	"version": {
-		"major": 2,
+		"major": 3,
 		"minor": 0,
 		"patch": 0
 	}
